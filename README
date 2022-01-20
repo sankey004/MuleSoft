@@ -1,4 +1,4 @@
 First Download the two files .py and .sql
-Then Import the .sql file onto your MySQL Workbench.
+Then Import the .sql file onto your MySQL Workbench and change the password as your default password for MySQl WorkBench.
 Then run the .py file using any IDE Available for Python Language.
 Then You are done with accessing Mysql database using Python Programming Language.
