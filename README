@@ -1,4 +1,4 @@
 First Download the two files MuleSoft Internship.py and favmovies.csv
-Then Import the favmovies.csv file onto your MySQL Workbench and change the password as your default password for MySQl WorkBench.
+Then Import the favmovies.csv file onto your MySQL Workbench,create a schema named "movies" and change the password as your default password for MySQl WorkBench.
 Then run the MuleSoft Internship.py file using any IDE Available for Python Language.
 Then You are done with accessing Mysql database using Python Programming Language.
